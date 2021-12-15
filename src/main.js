@@ -6,7 +6,6 @@ import router from './router'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 
-console.log(process.env.NODE_ENV)
 if (process.env.NODE_ENV === 'development') {
   require('./mockjs/index')
 }

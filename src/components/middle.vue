@@ -183,7 +183,7 @@ export default {
           margin: 10px 0px;
         }
         .send-url {
-          width: 79%;
+          width: 77%;
         }
         .send-button {
           width: 10%;
